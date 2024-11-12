@@ -1,3 +1,3 @@
-# Calculator Android
+# Collection of projects from android development class.
 
-Fully functioning calculator using kotlin for android development.
+Fully functioning calculator and news app using kotlin for android development.
